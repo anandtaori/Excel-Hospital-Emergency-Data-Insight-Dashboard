@@ -30,11 +30,6 @@ The visuals are created to transform raw healthcare data into **clear and action
 - Shows **department workload distribution**
 - Tracks **patient satisfaction changes over time**
 
-## ▶️ How to Use
-1. Download or open the PDF file in this repository.
-2. Explore the dashboard visuals and charts.
-3. Analyze the insights provided by the data.
-
 ## 📌 Purpose of the Project
 The aim of this project is to demonstrate **data visualization and analytical skills** by converting healthcare data into an easy-to-understand interactive dashboard.
 
